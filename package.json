@@ -2,6 +2,12 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ryan Vanselow",
 	"description": "a really cool repository",
+	"keywords": [
+		"some",
+		"very",
+		"descriptive",
+		"words"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
